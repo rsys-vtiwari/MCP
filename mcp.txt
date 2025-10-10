@@ -1,0 +1,3 @@
+`query` (string): Search query
+* `page` (optional number): Page number for pagination
+* `perPage` (optional number): Results per page (max 100)
